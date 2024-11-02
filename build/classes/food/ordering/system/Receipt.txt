@@ -1,0 +1,34 @@
+       DATA STRUCTURES RESTAURANT               
+ORDER #1
+TELEPHONE: 03-597873
+------------------------------------------
+STAFF : Fouad
+Date :24/04/2022 14:36:12
+------------------------------------------
+DESCRIPTION                        AMOUNT
+Beef burger                        2.5$
+Hadi Special                       100.0$
+Ice tea                            4.5$
+------------------------------------------
+TOPPINGD ADDED                     AMOUNT
+MOZZARELLA                         2.0$
+------------------------------------------
+NUMBER OF ITEMS: 3
+------------------------------------------
+TOTAL:                             109.0$
+
+
+
+       DATA STRUCTURES RESTAURANT               
+ORDER #2
+TELEPHONE: 03-597873
+------------------------------------------
+STAFF : Fouad
+Date :24/04/2022 14:36:36
+------------------------------------------
+DESCRIPTION                        AMOUNT
+Tiramisu                           8.0$
+------------------------------------------
+NUMBER OF ITEMS: 1
+------------------------------------------
+TOTAL:                             8.0$
